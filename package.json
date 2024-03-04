@@ -10,7 +10,7 @@
   "author": "KarmaKun21",
   "repository": {
     "type": "git",
-    "url": "https://github.com/KarmaKun21/MU-Appoinment-App-.git"
+    "url": "https://github.com/KarmaKun21/MU-Appoinment-App.git"
   },
   "dependencies": {
     "body-parser": "^1.19.0",
