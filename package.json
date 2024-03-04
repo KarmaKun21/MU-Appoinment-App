@@ -1,0 +1,21 @@
+{
+  "name": "MU-Appoinment-App",
+  "version": "1.0.0",
+  "description": "School Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "KarmaKun21",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KarmaKun21/MU-Appoinment-App-.git"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "knox-tea": "^1.0.2",
+    "mongoose": "^5.13.2"
+  }
+}
